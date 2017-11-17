@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ea6e58c00632d54cfe9db1261c0b25c3"
+build_time: [556258775, 575848000]
+inputs:
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/ViewControllers/ChatVC.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/ViewControllers/LandingVC.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/ViewControllers/NavVC.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/Model/Conversation.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/ViewControllers/ConversationsVC.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/AppDelegate.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/ViewControllers/WelcomeVC.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/Helper files/Helper Files.swift": [556207078, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/Model/Message.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/ViewControllers/VCCells.swift": [539549146, 0]
+  "/Users/apple-1/Downloads/SWIFT USEFULS/Quick-Chat-master/QuickChat/Model/User.swift": [539549146, 0]
